@@ -2,6 +2,8 @@
 
 Please follow the links for more information
 * <a href="https://github.com/airatns/hw05_final" target="_blank">Yatube</a> is a social network for publishing posts
+* <a href="https://github.com/airatns/api_final_yatube1" target="_blank">REST API</a> for Yatube
+* <a href="https://github.com/airatns/api_yamdb" target="_blank">YaMDb</a> is a database of movies, books and music ratings. I worked in the team as a team lead and developer. I have redefined User model, configured registration by confirmation code received by e-mail, authentication and authorization through JWT token.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
