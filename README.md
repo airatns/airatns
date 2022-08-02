@@ -1,6 +1,6 @@
 ## Hi there. I'm Airat and I'm Python developer 👋
 
-Please follow to my projects' for more information
+Please follow the links for more information
 * <a href="https://github.com/airatns/hw05_final" target="_blank">Yatube</a> is a social network for publishing posts
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
