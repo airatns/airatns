@@ -1,5 +1,14 @@
 ## Hi there. I'm Airat and I'm Python developer 👋
 
+<div id="badges">
+  <a href="https://t.me/AiratNS">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:mr-airat@yandex.ru">
+    <img src="https://img.shields.io/badge/E--Mail-red?logo=email&logoColor=white&style=for-the-badge" alt="E-mail Badge"/>
+  </a>
+</div>
+
 ### **Projects**
 
 * <a href="https://github.com/airatns/hw05_final" target="_blank">Yatube</a> is a social network for publishing posts. The user can create new posts, add pictures, leave comments and subscribe to other authors. With registration, authentication and authorization. The user can change and reset his password. Used pagination and caching. Tests have been written for code checking
@@ -23,6 +32,3 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
-
-----------
-### **Contacts**
