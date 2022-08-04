@@ -7,6 +7,7 @@ There are my projects and technologies that I used
 * <a href="https://github.com/airatns/api_yamdb" target="_blank">YaMDb</a> is a database of movies, books and music ratings. I worked in the team as a team lead and developer. I have redefined User model, configured registration by confirmation code received by e-mail, authentication and authorization through JWT token
 * <a href="https://github.com/airatns/hw_python_oop" target="_blank">Fitness tracker module</a> receives data about the last workout (duration, distance), determines the type of workout (running, walking, swimming), calculates and displays the result of the workout (calorie consumption)
 * <a href="https://github.com/airatns/homework_bot" target="_blank">Homework Bot</a> accesses the API of the Practicum.Homework and notifies the student with one of the statuses: the work is on the review, the work is returned for correction, the work is accepted
+* <a href="https://github.com/airatns/kittybot" target="_blank">Kittybot</a> sends pictures with cats. If access to CatsAPI is not possible, pictures from DogsAPI will be sent.
 
 ---------
 
