@@ -1,7 +1,7 @@
 ## Hi there. I'm Airat and I'm Python developer 👋
 
 <div id="badges">
-  <a href="https://t.me/AiratNS">
+  <a href="https://t.me/airatns">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
   <a href="mailto:mr-airat@yandex.ru">
