@@ -9,7 +9,7 @@
   </a>
 </div>
 
-### **Projects**
+### **My Projects**
 
 * <a href="https://github.com/airatns/foodgram-project-react" target="_blank">Foodgram</a> is an application, where users can publish their recipes, follow to other users, add recipes to favorite list and download a list of ingredients of one or more selected recipes before going to the supermarket. With registration, authentication and authorization. Filtering by TAGs is realized. The app is launched on the server via DockerHub and GitHub Actions
 * <a href="https://github.com/airatns/hw05_final" target="_blank">Yatube</a> is a social network for publishing posts. The user can create new posts, add pictures, leave comments and subscribe to other authors. With registration, authentication and authorization. The user can change and reset his password. Used pagination and caching. Tests have been written for code checking. Also developed <a href="https://github.com/airatns/api_final_yatube1" target="_blank">REST API</a> for Yatube
