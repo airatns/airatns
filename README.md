@@ -1,4 +1,4 @@
-## Hi there. I'm Airat and I'm Python developer 👋
+## Hey there. I'm Airat and I'm Python developer 👋
 
 <div id="badges">
   <a href="https://t.me/airatns">
