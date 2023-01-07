@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/airatns">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:mr-airat@yandex.ru">
+  <a href="mailto:airatns@yahoo.com">
     <img src="https://img.shields.io/badge/E--Mail-red?logo=email&logoColor=white&style=for-the-badge" alt="E-mail Badge"/>
   </a>
   <a href="https://t.me/airatns">
