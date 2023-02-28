@@ -15,7 +15,8 @@
 ### **My Projects**
 
 #### **Test cases**
-1. [Telegram Bot](https://github.com/airatns/tg_voice_bot), that creates database with user's data, saves audio messages in *.wav format and detects faces in the sent photos (**Python, Telegram Bot, SQLite, OpenCV, NumPy**).
+1. [Telegram Bot](https://github.com/airatns/tg_voice_bot), that creates database with user's data, saves audio messages in *.wav format and detects faces in the sent photos (**Python, Telegram Bot, SQLite, OpenCV, NumPy**)
+2. [Bio-fluorography](https://github.com/airatns/bio-fluorography) is the script, that checks if the image is in the correct folder. And then creates a .csv file with image data (**Python, OpenCV, NumPy, CSV**)
 
 #### **Yandex cases**
 1. [Foodgram](https://github.com/airatns/foodgram-project-react) is the social network for publishing recipes, which deployed [to the server](http://46.18.107.21/recipes) (**Python, DRF, PostgreSQL, Docker, Nginx, CI/CD**)
