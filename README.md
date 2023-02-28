@@ -14,13 +14,16 @@
 
 ### **My Projects**
 
+#### **Test cases**
+1. [Telegram Bot](https://github.com/airatns/tg_voice_bot), that creates database with user's data, saves audio messages in *.wav format and detects faces in the sent photos (**Python, Telegram Bot, SQLite, OpenCV, NumPy**).
+
 #### **Yandex cases**
-1. [Foodgram](https://github.com/airatns/foodgram-project-react) is the social network for publishing recipes, which deployed [to the server](http://46.18.107.21/recipes) (**DRF, PostgreSQL, Docker, Nginx, CI/CD**)
-2. [Yatube](https://github.com/airatns/hw05_final) is the project for publishing posts (**Django, SQLite, REST API, HTML, CSS, Testing**)
-3. [YaMDb](https://github.com/airatns/api_yamdb) is the community with users reviews of movies, books and music (**Django REST Framework, SQLite**)
+1. [Foodgram](https://github.com/airatns/foodgram-project-react) is the social network for publishing recipes, which deployed [to the server](http://46.18.107.21/recipes) (**Python, DRF, PostgreSQL, Docker, Nginx, CI/CD**)
+2. [Yatube](https://github.com/airatns/hw05_final) is the project for publishing posts (**Python, Django, SQLite, REST API, HTML, CSS, Testing**)
+3. [YaMDb](https://github.com/airatns/api_yamdb) is the community with users reviews of movies, books and music (**Python, Django REST Framework, SQLite**)
 4. [Fitness tracker module](https://github.com/airatns/hw_python_oop) (**Python, OOP, SOLID**)
-5. [Homework Bot](https://github.com/airatns/homework_bot) in Telegram, which connects to the external API of the Yandex Service (**Python, Telegram Bot, External APIs, OOP**)
-6. [Kittybot](https://github.com/airatns/kittybot) in Telegram, which connects to the external API and sends pictures with cats to users (**Python, Telegram Bot, External APIs**)
+5. [Homework Bot](https://github.com/airatns/homework_bot) in Telegram, that connects to the external API of the Yandex Service (**Python, Telegram Bot, External APIs, OOP**)
+6. [Kittybot](https://github.com/airatns/kittybot) in Telegram, that connects to the external API and sends pictures with cats to users (**Python, Telegram Bot, External APIs**)
 
 ---------
 ### **Technology stack**
