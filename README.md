@@ -15,7 +15,7 @@
 ### **My Projects**
 
 #### **Yandex cases**
-1. [Foodgram](https://github.com/airatns/foodgram-project-react) is the social network for publishing recipes, which deployed [to the server](http://46.18.107.21/recipes) (**DRF, PostgreSQL, Docker, Nginx, Gunicorn, CI/CD**)
+1. [Foodgram](https://github.com/airatns/foodgram-project-react) is the social network for publishing recipes, which deployed [to the server](http://46.18.107.21/recipes) (**DRF, PostgreSQL, Docker, Nginx, CI/CD**)
 2. [Yatube](https://github.com/airatns/hw05_final) is the project for publishing posts (**Django, SQLite, REST API, HTML, CSS, Testing**)
 3. [YaMDb](https://github.com/airatns/api_yamdb) is the community with users reviews of movies, books and music (**Django REST Framework, SQLite**)
 4. [Fitness tracker module](https://github.com/airatns/hw_python_oop) (**Python, OOP, SOLID**)
