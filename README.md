@@ -20,8 +20,8 @@
 
 #### **Yandex cases**
 1. [Cuisine](https://github.com/airatns/cuisine) is the social network for publishing recipes, which deployed [to the server](http://46.18.107.21/recipes) (**Python, DRF, PostgreSQL, Docker, Nginx, CI/CD**)
-2. [LivePost](https://github.com/airatns/live-post) is the project for publishing daily posts (**Python, Django, SQLite, REST API, HTML, CSS, Testing**)
-3. [YaMDb](https://github.com/airatns/api_yamdb) is the community with users reviews of movies, books and music (**Python, Django REST Framework, SQLite**)
+2. [Live Post](https://github.com/airatns/live-post) is the project for publishing daily posts (**Python, Django, SQLite, REST API, HTML, CSS, Testing**)
+3. [Inter Rating](https://github.com/airatns/inter-rating) is the community with users reviews of movies, books and music (**Python, Django REST Framework, SQLite**)
 4. [Kittybot](https://github.com/airatns/kittybot) in Telegram, that connects to the external API and sends pictures with cats to users (**Python, Telegram Bot, External APIs**)
 
 ---------
